@@ -30,6 +30,3 @@ This project is an **Excel-based sales analysis dashboard** for **Blinkit**, des
 
 ## 🤝 Contributing
 Feel free to suggest improvements or add new insights!  
-
-## 📬 Contact
-For queries, reach out via **GitHub Issues** or email at `your-email@example.com`.  
